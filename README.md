@@ -1,0 +1,1 @@
+This repository presents a visual data exploration of ChrisCo, a fictional company managing a chain of cinemas. Through various graphs and charts, the report visualizes cinema visitor volumes and explores correlations between cinemas. Key insights include the use of bar charts, scatter plots, correlation matrices, and line charts to analyze cinema data.
